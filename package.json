@@ -1,0 +1,27 @@
+{
+  "name": "teste-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react-dom": "^16.2.0",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-svg-sprites": "^4.1.2",
+    "semantic-ui": "^2.2.12"
+  },
+  "author": "",
+  "license": "ISC"
+}
